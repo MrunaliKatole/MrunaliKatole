@@ -46,7 +46,7 @@ To start my career as a Java Full Stack Developer and grow by building real-worl
 
 ### 🤝 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/mrunalikatole15
+💼 LinkedIn:mrunalikatole15
 
 📧 Email: mrunalikatole@gmail.com
 

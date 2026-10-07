@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Mrunali Katole
 
-<!--
-**MrunaliKatole/MrunaliKatole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Java Full Stack Developer
 
-Here are some ideas to get you started:
+MCA Graduate | Java | Spring Boot | React | MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Java Full Stack Developer passionate about building web applications and learning new technologies.
+
+### 👩‍💻 About Me
+
+🎓 MCA Graduate  
+💻 Java Full Stack Developer  
+🌱 Currently improving my Java, Spring Boot, React and SQL skills  
+🚀 Interested in building real-world applications  
+📍 Maharashtra, India
+
+### 🛠️ My Skills
+
+- ☕ Java
+- 🌱 Spring Boot
+- ⚛️ React
+- 🌐 HTML, CSS, JavaScript
+- 🗄️ MySQL & SQL
+- 🔗 REST APIs
+- 🧪 Postman
+- 🔧 Git & GitHub
+
+### 🚀 Featured Project
+
+**Job Portal System**
+
+A full-stack job portal application built using Java, Spring Boot, React and MySQL.
+
+Features:
+- User Registration & Login
+- Job Search
+- Job Details
+- Apply for Jobs
+- Save Jobs
+- Recruiter Job Posting
+- Recruiter Job Management
+
+### 🎯 Career Goal
+
+To start my career as a Java Full Stack Developer and grow by building real-world software applications.
+
+### 🤝 Connect With Me
+
+💼 LinkedIn: [Mrunali Katole](https://www.linkedin.com/in/mrunalikatole15/)
+
+📧 Email: mrunalikatole@gmail.com
+
+---
+
+✨ Thanks for visiting my profile! ✨
